@@ -1,6 +1,6 @@
 class StringAnalyzer 
     def has_vowels?(str) 
-       (str =~ /[aeio]+/i) 
+       !!(str =~ /[aeio]+/i) 
     end 
  end
  

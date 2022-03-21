@@ -1,24 +1,13 @@
-# README
+# Rspec Testing
+### RoR BootCamp - Week 11
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Tools & Versions
+- Rails 7.0.1
 
-* Ruby version
+- Ruby 3.1.0
 
-* System dependencies
+- RSpec 3.11
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Screenshot
+![](https://raw.githubusercontent.com/Abdullah-l/Rspec-testing-quiz/feature/string-analyzer-spec/tests_run.png)
