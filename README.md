@@ -10,4 +10,4 @@
 - RSpec 3.11
 
 ## Screenshot
-![](https://raw.githubusercontent.com/Abdullah-l/Rspec-testing-quiz/feature/string-analyzer-spec/tests_run.png)
+![](https://raw.githubusercontent.com/Abdullah-l/Rspec-testing-quiz/feature/string-analyzer-spec/test_run.png)
